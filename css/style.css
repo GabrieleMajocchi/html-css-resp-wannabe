@@ -153,6 +153,10 @@ img {
         width: 100%;
     }
 
+    .card p{
+        padding-bottom: 3rem;
+    }
+
     .steps .col {
         width: 100%;
     }
