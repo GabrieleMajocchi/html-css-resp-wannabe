@@ -164,4 +164,14 @@ img {
     .why-us .col-right {
         width: 100%;
     }
+
+    section.steps{
+        margin-bottom: 0;
+    }
+
+    section.why-us{
+        background-color: #222222;
+        padding: 3rem 0;
+        margin-bottom: 0;
+    }
 }
