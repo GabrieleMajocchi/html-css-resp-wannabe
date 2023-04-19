@@ -179,3 +179,14 @@ img {
         margin-bottom: 0;
     }
 }
+
+
+/* BONUS 2 */
+
+@media screen and (max-width: 480px) {
+
+    div.row div.col-right ul{
+        display: flex;
+        flex-direction: column-reverse;
+    }
+}
